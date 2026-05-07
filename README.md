@@ -25,7 +25,6 @@
    npm install
    npm run dev
    ```
-   *You should see: VITE ready in XXX ms*
 
 4. **Open your browser to: http://localhost:3000**
 
@@ -38,7 +37,6 @@
 | Mess Staff | mess@hostelhub.com | password123 |
 | Student | student@hostelhub.com | password123 |
 
-*(Note: The login page also has quick-fill buttons for these demo credentials!)*
 
 ## What You Can Test
 
